@@ -1,0 +1,395 @@
+[
+    {
+        "id": "17",
+        "image": "gelish-design-05.jpg",
+        "image_list": ["gelish-design-09.jpg","gelish-design-10.jpg","gelish-design-11.jpg"],
+        "video": "gelish-design-01.mp4",
+        "title": "Gelish Design",
+        "title_": "Gelish\nDesign",
+        "route": "gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "16",
+        "image": "laminate-gelish-design-04.jpg",
+        "image_list": ["laminate-gelish-design-15.jpg","laminate-gelish-design-16.jpg","laminate-gelish-design-17.jpg"],
+        "video": "laminate-gelish-design-01.mp4",
+        "title": "Laminate Gelish Design",
+        "title_": "Laminate\nGelish Design",
+        "route": "laminate-gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "15",
+        "image": "gelish-design-04.jpg",
+        "image_list": ["gelish-design-09.jpg","gelish-design-10.jpg","gelish-design-11.jpg"],
+        "video": "gelish-design-01.mp4",
+        "title": "Gelish Design",
+        "title_": "Gelish\nDesign",
+        "route": "gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "14",
+        "image": "gelish-04.jpg",
+        "image_list": ["gelish-04.jpg","gelish-05.jpg","gelish-06.jpg"],
+        "video": "gelish-01.mp4",
+        "title": "Gelish",
+        "title_": "Gelish",
+        "route": "gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "13",
+        "image": "laminate-gelish-design-03.jpg",
+        "image_list": ["laminate-gelish-design-15.jpg","laminate-gelish-design-16.jpg","laminate-gelish-design-17.jpg"],
+        "video": "laminate-gelish-design-01.mp4",
+        "title": "Laminate Gelish Design",
+        "title_": "Laminate\nGelish Design",
+        "route": "laminate-gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "12",
+        "image": "laminate-gelish-03.jpg",
+        "image_list": ["laminate-gelish-01.jpg","laminate-gelish-02.jpg","laminate-gelish-02.jpg"],
+        "video": "laminate-gelish-01.mp4",
+        "title": "Laminate Gelish",
+        "title_": "Laminate\nGelish",
+        "route": "laminate-gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "11",
+        "image": "gelish-design-03.jpg",
+        "image_list": ["gelish-design-09.jpg","gelish-design-10.jpg","gelish-design-11.jpg"],
+        "video": "gelish-design-01.mp4",
+        "title": "Gelish Design",
+        "title_": "Gelish\nDesign",
+        "route": "gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "10",
+        "image": "gelish-03.jpg",
+        "image_list": ["gelish-04.jpg","gelish-05.jpg","gelish-06.jpg"],
+        "video": "gelish-01.mp4",
+        "title": "Gelish",
+        "title_": "Gelish",
+        "route": "gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "9",
+        "image": "laminate-gelish-design-02.jpg",
+        "image_list": ["laminate-gelish-design-15.jpg","laminate-gelish-design-16.jpg","laminate-gelish-design-17.jpg"],
+        "video": "laminate-gelish-design-01.mp4",
+        "title": "Laminate Gelish Design",
+        "title_": "Laminate\nGelish Design",
+        "route": "laminate-gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "8",
+        "image": "laminate-gelish-02.jpg",
+        "image_list": ["laminate-gelish-01.jpg","laminate-gelish-03.jpg","laminate-gelish-02.jpg"],
+        "video": "laminate-gelish-01.mp4",
+        "title": "Laminate Gelish",
+        "title_": "Laminate\nGelish",
+        "route": "laminate-gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "7",
+        "image": "gelish-design-02.jpg",
+        "image_list": ["gelish-design-09.jpg","gelish-design-10.jpg","gelish-design-11.jpg"],
+        "video": "gelish-design-01.mp4",
+        "title": "Gelish Design",
+        "title_": "Gelish\nDesign",
+        "route": "gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "6",
+        "image": "gelish-02.jpg",
+        "image_list": ["gelish-04.jpg","gelish-05.jpg","gelish-06.jpg"],
+        "video": "gelish-01.mp4",
+        "title": "Gelish",
+        "title_": "Gelish",
+        "route": "gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "5",
+        "image": "polygel-gelish-01.jpg",
+        "image_list": ["polygel-gelish-02.jpg","polygel-gelish-03.jpg","polygel-gelish-04.jpg"],
+        "video": "polygel-gelish-01.mp4",
+        "title": "Polygel Gelish",
+        "title_": "Polygel\nGelish",
+        "route": "polygel-gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "4",
+        "image": "laminate-gelish-design-01.jpg",
+        "image_list": ["laminate-gelish-design-15.jpg","laminate-gelish-design-16.jpg","laminate-gelish-design-17.jpg"],
+        "video": "laminate-gelish-design-01.mp4",
+        "title": "Laminate Gelish Design",
+        "title_": "Laminate\nGelish Design",
+        "route": "laminate-gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "3",
+        "image": "laminate-gelish-01.jpg",
+        "image_list": ["laminate-gelish-02.jpg","laminate-gelish-03.jpg","laminate-gelish-01.jpg"],
+        "video": "laminate-gelish-01.mp4",
+        "title": "Laminate Gelish",
+        "title_": "Laminate\nGelish",
+        "route": "laminate-gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "2",
+        "image": "gelish-design-01.jpg",
+        "image_list": ["gelish-design-09.jpg","gelish-design-10.jpg","gelish-design-11.jpg"],
+        "video": "gelish-design-01.mp4",
+        "title": "Gelish Design",
+        "title_": "Gelish\nDesign",
+        "route": "gelish-design",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    },
+    {
+        "id": "1",
+        "image": "gelish-01.jpg",
+        "image_list": ["gelish-04.jpg","gelish-05.jpg","gelish-06.jpg"],
+        "video": "gelish-01.mp4",
+        "title": "Gelish",
+        "title_": "Gelish",
+        "route": "gelish",
+        "desc": "lorem ipsum",
+        "case": {
+            "quote": "lorem ipsum",
+            "synopsis": "lorem ipsum",
+            "storyline": "lorem ipsum",
+            "extra": "lorem ipsum",
+            "gallery": {
+
+            },
+            "video": {
+                "large":"",
+                "preview":""
+            }
+        }
+    }
+
+
+]
